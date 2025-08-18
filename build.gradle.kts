@@ -9,7 +9,7 @@ plugins {
 qupathExtension {
     name = "qupath-extension-ndpa"
     group = "io.github.qupath"
-    version = "0.1.0-SNAPSHOT"
+    version = "0.1.0"
     description = "A QuPath extension for handling Hamamatsu NDPA annotations"
     automaticModule = "io.github.qupath.extension.ndpa"
 }
